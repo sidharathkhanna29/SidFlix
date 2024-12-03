@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chapter 4 Movie List
 # Application running:
 ![Application running](Images/ApplicationRunning.PNG)
@@ -14,3 +15,7 @@
 ![Delete](Images/confirmDelete.PNG)
 # Delete confirmation:
 ![Delete](Images/deleteConfirmation.PNG)
+=======
+# SidFlix
+Web Application Development Capstone Project 
+>>>>>>> 4bb0cebfb5ae179b2e3e7dcf6771570f60b2f14c
